@@ -10,3 +10,5 @@ Maximal and minimal numbers of racks and shelves are based on window size.
 
 Feel free to play with it.
 I tried to document it well.
+
+Making everything in one file may be irritating, but that was sadly the requirement.
