@@ -1,4 +1,4 @@
-# Drawing_cellar
+# Drawing Cellar
 Exersize made for university class Introduction to Computer Science on University of Warsaw during my Cognitive Science major.
 
 The program is drawing racks in cellar. 
