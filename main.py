@@ -3,11 +3,6 @@ import random
 from abc import ABC, abstractmethod
 from enum import Enum, auto
 
-"""
-    Na przykładzie tego zadanie starałem się poćwiczyć pisanie dokumentacji projektu,
-    więc byłbym szczególnie wdzięczny za wszystkie uwagi z nią związane, jak również z czytelnością kodu.
-"""
-
 
 class Color:
     """
